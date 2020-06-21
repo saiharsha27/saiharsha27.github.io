@@ -47,7 +47,7 @@
 
         <div class="column c">
         <p>Hello! i'm</p>
-        <p id="head">Hash Sathish</p>
+        <p id="head">Saiharsha Paladugu</p>
         
         <p id="nor">A young front-end web developer with craze for web developing.</p>
         <p id="mor">Find Me on</p>
@@ -63,7 +63,7 @@
             <!-- <button class="btn btn-outline-secondary bt">Portfolio</button> -->
             
         
-        <h5 class="port">I have no special talent. I am only passionately curious.</h5>
+        <h5 class="port">I am only passionately curious.</h5>
     </div>
 
 </section>
@@ -73,13 +73,15 @@
         <div class="column cl">
             <p id="head" class="hw">About me</p>
             <hr>
-            <p id="nor">Howdy! I am Hashwanth S. I'm 18 years old. I am currently pursuing my B.Tech in VIT Chennai.</p>
+            <p id="nor">Howdy! I am Saiharsha Paladugu. I'm 18 years old. I am currently pursuing my B.Tech in SRM University, Amaravati.</p>
             <p id="nor">I am learning web-dev from Scalar webinar.</p>
             <p id="head" class="hw">Top-Skills</p>
             <hr>
             <ul class="ul">
-                <li class="li">Guitarist</li>
+                <li class="li">Python</li>
                 <li class="li">Logical Thinking</li>
+                <li class="li">C Programming</li> 
+                <li class="li">Java Programming</li>
                 <li class="li">Html/css</li>
             </ul>
         </div>
